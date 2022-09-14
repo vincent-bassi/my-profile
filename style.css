@@ -1,0 +1,85 @@
+
+
+h1{
+    color: #903f3f}
+h2{ 
+    color: #FEF5AC
+
+}
+
+.container{
+    background-color: #FEF5AC;
+    font-family: verdana;
+    
+}
+
+
+img{ 
+     
+    height: 300px;
+    width: 500px;
+    
+
+}
+.lana{
+    height: 60px;
+    width: 60px;
+}
+
+.face{
+    height: 50px;
+    width: 50px;
+}
+body{
+    text-align: center;
+}
+
+.insta{
+    height: 50px;
+    width: 50px;
+}
+
+
+.boubou{
+    height: 1px;
+    width: 1px;
+}
+
+.ZZ{
+    background-color: #903f3f;
+    width: 800px;
+    margin: 0 auto;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    box-shadow: 1px 1px 1px #111110;
+    text-align: center;
+    
+}
+.icon{
+    height: 40px;
+    width: 40px;
+}
+a{
+    text-decoration: none;
+}
+#pp{
+    border-radius: 50%;
+}
+
+
+.para{
+    display: flex;
+    gap: 10px;
+
+}
+
+.block{
+    display: flex;
+    justify-content: space-around;
+    background-color: #903f3f;
+    border-radius: 20px;
+    height: 195px;
+    justify-content: center;
+}
+
